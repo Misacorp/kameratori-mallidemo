@@ -2,6 +2,7 @@
   "name": "react-boilerplate",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://misacorp.github.io/kameratori-mallidemo",
   "dependencies": {
     "@material-ui/core": "^3.1.2",
     "eslint": "^4.19.1",
